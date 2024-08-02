@@ -1,4 +1,4 @@
-# Programação Funcional- Haskell
+# Programação Funcional - Haskell
 
 Projeto realizado para a disciplina de Paradigmas de Linguagens de Programação. 
 
